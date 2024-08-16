@@ -1,3 +1,4 @@
 # prince.first
-This is my first Git Repository
-Author-Prince Pandey
+This is my first Git Repository.
+<br>
+Author - Prince Pandey
